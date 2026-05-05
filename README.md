@@ -3,7 +3,7 @@
 This repository contains an informational guide explaining why a Progressive Insurance payment may not be posted or visible after submission, along with steps to understand and resolve the issue.
 
 ## 🌐 Live Page
-https://insurancebillhelp.github.io/progressive-payment-not-posted/
+https://insurancebillhelp.github.io/progressive-payment-not-posted-/
 
 ---
 
